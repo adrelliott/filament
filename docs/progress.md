@@ -6,7 +6,7 @@ _With direct links to source docs — generated 2025-08-16_
 
 ## Introduction
 
-- [ ] [What is Filament?](https://github.com/adrelliott/filament/blob/4.x/docs/introduction/what-is-filament.md)  
+- [x] [What is Filament?](https://github.com/adrelliott/filament/blob/4.x/docs/introduction/what-is-filament.md)  
   `id: introduction/what-is-filament`
 
 - [ ] [Installation](https://github.com/adrelliott/filament/blob/4.x/docs/introduction/installation.md)  
