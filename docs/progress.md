@@ -6,7 +6,7 @@ _Generated 2025-08-16_
 
 ## Introduction
 
-- [ ] **What is Filament?**  
+- [ x] **What is Filament?**  
   `id: introduction/what-is-filament`
 
 - [ ] **Installation**  
