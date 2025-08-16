@@ -1,0 +1,1379 @@
+[
+  {
+    "id": "introduction/what-is-filament",
+    "section": "Introduction",
+    "title": "What is Filament?",
+    "order_in_section": 1,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "introduction/installation",
+    "section": "Introduction",
+    "title": "Installation",
+    "order_in_section": 2,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "introduction/optimizing-local-development",
+    "section": "Introduction",
+    "title": "Optimizing local development",
+    "order_in_section": 3,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "introduction/help",
+    "section": "Introduction",
+    "title": "Help",
+    "order_in_section": 4,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "introduction/version-support-policy",
+    "section": "Introduction",
+    "title": "Version support policy",
+    "order_in_section": 5,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "introduction/contributing",
+    "section": "Introduction",
+    "title": "Contributing",
+    "order_in_section": 6,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "getting-started/getting-started",
+    "section": "Getting started",
+    "title": "Getting started",
+    "order_in_section": 1,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "resources/overview",
+    "section": "Resources",
+    "title": "Overview",
+    "order_in_section": 1,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "resources/listing-records",
+    "section": "Resources",
+    "title": "Listing records",
+    "order_in_section": 2,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "resources/creating-records",
+    "section": "Resources",
+    "title": "Creating records",
+    "order_in_section": 3,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "resources/editing-records",
+    "section": "Resources",
+    "title": "Editing records",
+    "order_in_section": 4,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "resources/viewing-records",
+    "section": "Resources",
+    "title": "Viewing records",
+    "order_in_section": 5,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "resources/deleting-records",
+    "section": "Resources",
+    "title": "Deleting records",
+    "order_in_section": 6,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "resources/managing-relationships",
+    "section": "Resources",
+    "title": "Managing relationships",
+    "order_in_section": 7,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "resources/nested-resources",
+    "section": "Resources",
+    "title": "Nested resources",
+    "order_in_section": 8,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "resources/singular-resources",
+    "section": "Resources",
+    "title": "Singular resources",
+    "order_in_section": 9,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "resources/global-search",
+    "section": "Resources",
+    "title": "Global search",
+    "order_in_section": 10,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "resources/using-widgets-on-resource-pages",
+    "section": "Resources",
+    "title": "Using widgets on resource pages",
+    "order_in_section": 11,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "resources/custom-resource-pages",
+    "section": "Resources",
+    "title": "Custom resource pages",
+    "order_in_section": 12,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "resources/code-quality-tips",
+    "section": "Resources",
+    "title": "Code quality tips",
+    "order_in_section": 13,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "tables/overview",
+    "section": "Tables",
+    "title": "Overview",
+    "order_in_section": 1,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "tables/columns-overview",
+    "section": "Tables",
+    "title": "Columns: Overview",
+    "order_in_section": 2,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "tables/columns-text-column",
+    "section": "Tables",
+    "title": "Columns: Text column",
+    "order_in_section": 3,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "tables/columns-icon-column",
+    "section": "Tables",
+    "title": "Columns: Icon column",
+    "order_in_section": 4,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "tables/columns-image-column",
+    "section": "Tables",
+    "title": "Columns: Image column",
+    "order_in_section": 5,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "tables/columns-color-column",
+    "section": "Tables",
+    "title": "Columns: Color column",
+    "order_in_section": 6,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "tables/columns-select-column",
+    "section": "Tables",
+    "title": "Columns: Select column",
+    "order_in_section": 7,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "tables/columns-toggle-column",
+    "section": "Tables",
+    "title": "Columns: Toggle column",
+    "order_in_section": 8,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "tables/columns-text-input-column",
+    "section": "Tables",
+    "title": "Columns: Text input column",
+    "order_in_section": 9,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "tables/columns-checkbox-column",
+    "section": "Tables",
+    "title": "Columns: Checkbox column",
+    "order_in_section": 10,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "tables/columns-custom-columns",
+    "section": "Tables",
+    "title": "Columns: Custom columns",
+    "order_in_section": 11,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "tables/filters-overview",
+    "section": "Tables",
+    "title": "Filters: Overview",
+    "order_in_section": 12,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "tables/filters-select-filters",
+    "section": "Tables",
+    "title": "Filters: Select filters",
+    "order_in_section": 13,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "tables/filters-ternary-filters",
+    "section": "Tables",
+    "title": "Filters: Ternary filters",
+    "order_in_section": 14,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "tables/filters-query-builder",
+    "section": "Tables",
+    "title": "Filters: Query builder",
+    "order_in_section": 15,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "tables/filters-custom-filters",
+    "section": "Tables",
+    "title": "Filters: Custom filters",
+    "order_in_section": 16,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "tables/filters-filter-layout",
+    "section": "Tables",
+    "title": "Filters: Filter layout",
+    "order_in_section": 17,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "tables/actions",
+    "section": "Tables",
+    "title": "Actions",
+    "order_in_section": 18,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "tables/layout",
+    "section": "Tables",
+    "title": "Layout",
+    "order_in_section": 19,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "tables/summaries",
+    "section": "Tables",
+    "title": "Summaries",
+    "order_in_section": 20,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "tables/grouping-rows",
+    "section": "Tables",
+    "title": "Grouping rows",
+    "order_in_section": 21,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "tables/empty-state",
+    "section": "Tables",
+    "title": "Empty state",
+    "order_in_section": 22,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "tables/custom-data",
+    "section": "Tables",
+    "title": "Custom data",
+    "order_in_section": 23,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "schemas/overview",
+    "section": "Schemas",
+    "title": "Overview",
+    "order_in_section": 1,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "schemas/layouts",
+    "section": "Schemas",
+    "title": "Layouts",
+    "order_in_section": 2,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "schemas/sections",
+    "section": "Schemas",
+    "title": "Sections",
+    "order_in_section": 3,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "schemas/tabs",
+    "section": "Schemas",
+    "title": "Tabs",
+    "order_in_section": 4,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "schemas/wizards",
+    "section": "Schemas",
+    "title": "Wizards",
+    "order_in_section": 5,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "schemas/prime-components",
+    "section": "Schemas",
+    "title": "Prime components",
+    "order_in_section": 6,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "schemas/custom-components",
+    "section": "Schemas",
+    "title": "Custom components",
+    "order_in_section": 7,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "forms/overview",
+    "section": "Forms",
+    "title": "Overview",
+    "order_in_section": 1,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "forms/text-input",
+    "section": "Forms",
+    "title": "Text input",
+    "order_in_section": 2,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "forms/select",
+    "section": "Forms",
+    "title": "Select",
+    "order_in_section": 3,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "forms/checkbox",
+    "section": "Forms",
+    "title": "Checkbox",
+    "order_in_section": 4,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "forms/toggle",
+    "section": "Forms",
+    "title": "Toggle",
+    "order_in_section": 5,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "forms/checkbox-list",
+    "section": "Forms",
+    "title": "Checkbox list",
+    "order_in_section": 6,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "forms/radio",
+    "section": "Forms",
+    "title": "Radio",
+    "order_in_section": 7,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "forms/date-time-picker",
+    "section": "Forms",
+    "title": "Date-time picker",
+    "order_in_section": 8,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "forms/file-upload",
+    "section": "Forms",
+    "title": "File upload",
+    "order_in_section": 9,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "forms/rich-editor",
+    "section": "Forms",
+    "title": "Rich editor",
+    "order_in_section": 10,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "forms/markdown-editor",
+    "section": "Forms",
+    "title": "Markdown editor",
+    "order_in_section": 11,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "forms/repeater",
+    "section": "Forms",
+    "title": "Repeater",
+    "order_in_section": 12,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "forms/builder",
+    "section": "Forms",
+    "title": "Builder",
+    "order_in_section": 13,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "forms/tags-input",
+    "section": "Forms",
+    "title": "Tags input",
+    "order_in_section": 14,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "forms/textarea",
+    "section": "Forms",
+    "title": "Textarea",
+    "order_in_section": 15,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "forms/key-value",
+    "section": "Forms",
+    "title": "Key-value",
+    "order_in_section": 16,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "forms/color-picker",
+    "section": "Forms",
+    "title": "Color picker",
+    "order_in_section": 17,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "forms/toggle-buttons",
+    "section": "Forms",
+    "title": "Toggle buttons",
+    "order_in_section": 18,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "forms/slider",
+    "section": "Forms",
+    "title": "Slider",
+    "order_in_section": 19,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "forms/code-editor",
+    "section": "Forms",
+    "title": "Code editor",
+    "order_in_section": 20,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "forms/hidden",
+    "section": "Forms",
+    "title": "Hidden",
+    "order_in_section": 21,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "forms/custom-fields",
+    "section": "Forms",
+    "title": "Custom fields",
+    "order_in_section": 22,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "forms/validation",
+    "section": "Forms",
+    "title": "Validation",
+    "order_in_section": 23,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "infolists/overview",
+    "section": "Infolists",
+    "title": "Overview",
+    "order_in_section": 1,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "infolists/text-entry",
+    "section": "Infolists",
+    "title": "Text entry",
+    "order_in_section": 2,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "infolists/icon-entry",
+    "section": "Infolists",
+    "title": "Icon entry",
+    "order_in_section": 3,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "infolists/image-entry",
+    "section": "Infolists",
+    "title": "Image entry",
+    "order_in_section": 4,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "infolists/color-entry",
+    "section": "Infolists",
+    "title": "Color entry",
+    "order_in_section": 5,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "infolists/code-entry",
+    "section": "Infolists",
+    "title": "Code entry",
+    "order_in_section": 6,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "infolists/key-value-entry",
+    "section": "Infolists",
+    "title": "Key-value entry",
+    "order_in_section": 7,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "infolists/repeatable-entry",
+    "section": "Infolists",
+    "title": "Repeatable entry",
+    "order_in_section": 8,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "infolists/custom-entries",
+    "section": "Infolists",
+    "title": "Custom entries",
+    "order_in_section": 9,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "actions/overview",
+    "section": "Actions",
+    "title": "Overview",
+    "order_in_section": 1,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "actions/modals",
+    "section": "Actions",
+    "title": "Modals",
+    "order_in_section": 2,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "actions/grouping-actions",
+    "section": "Actions",
+    "title": "Grouping actions",
+    "order_in_section": 3,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "actions/create-action",
+    "section": "Actions",
+    "title": "Create action",
+    "order_in_section": 4,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "actions/edit-action",
+    "section": "Actions",
+    "title": "Edit action",
+    "order_in_section": 5,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "actions/view-action",
+    "section": "Actions",
+    "title": "View action",
+    "order_in_section": 6,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "actions/delete-action",
+    "section": "Actions",
+    "title": "Delete action",
+    "order_in_section": 7,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "actions/replicate-action",
+    "section": "Actions",
+    "title": "Replicate action",
+    "order_in_section": 8,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "actions/force-delete-action",
+    "section": "Actions",
+    "title": "Force-delete action",
+    "order_in_section": 9,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "actions/restore-action",
+    "section": "Actions",
+    "title": "Restore action",
+    "order_in_section": 10,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "actions/import-action",
+    "section": "Actions",
+    "title": "Import action",
+    "order_in_section": 11,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "actions/export-action",
+    "section": "Actions",
+    "title": "Export action",
+    "order_in_section": 12,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "notifications/overview",
+    "section": "Notifications",
+    "title": "Overview",
+    "order_in_section": 1,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "notifications/database-notifications",
+    "section": "Notifications",
+    "title": "Database notifications",
+    "order_in_section": 2,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "notifications/broadcast-notifications",
+    "section": "Notifications",
+    "title": "Broadcast notifications",
+    "order_in_section": 3,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "widgets/overview",
+    "section": "Widgets",
+    "title": "Overview",
+    "order_in_section": 1,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "widgets/stats-overview-widgets",
+    "section": "Widgets",
+    "title": "Stats overview widgets",
+    "order_in_section": 2,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "widgets/chart-widgets",
+    "section": "Widgets",
+    "title": "Chart widgets",
+    "order_in_section": 3,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "panel-configuration/panel-configuration",
+    "section": "Panel configuration",
+    "title": "Panel configuration",
+    "order_in_section": 1,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "navigation/overview",
+    "section": "Navigation",
+    "title": "Overview",
+    "order_in_section": 1,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "navigation/custom-pages",
+    "section": "Navigation",
+    "title": "Custom pages",
+    "order_in_section": 2,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "navigation/user-menu",
+    "section": "Navigation",
+    "title": "User menu",
+    "order_in_section": 3,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "navigation/clusters",
+    "section": "Navigation",
+    "title": "Clusters",
+    "order_in_section": 4,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "users/overview",
+    "section": "Users",
+    "title": "Overview",
+    "order_in_section": 1,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "users/multi-factor-authentication",
+    "section": "Users",
+    "title": "Multi-factor authentication",
+    "order_in_section": 2,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "users/multi-tenancy",
+    "section": "Users",
+    "title": "Multi-tenancy",
+    "order_in_section": 3,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "customizing-styling/overview",
+    "section": "Customizing styling",
+    "title": "Overview",
+    "order_in_section": 1,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "customizing-styling/css-hooks",
+    "section": "Customizing styling",
+    "title": "CSS hooks",
+    "order_in_section": 2,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "customizing-styling/colors",
+    "section": "Customizing styling",
+    "title": "Colors",
+    "order_in_section": 3,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "customizing-styling/icons",
+    "section": "Customizing styling",
+    "title": "Icons",
+    "order_in_section": 4,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "advanced/render-hooks",
+    "section": "Advanced",
+    "title": "Render hooks",
+    "order_in_section": 1,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "advanced/registering-assets",
+    "section": "Advanced",
+    "title": "Registering assets",
+    "order_in_section": 2,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "advanced/enum-tricks",
+    "section": "Advanced",
+    "title": "Enum tricks",
+    "order_in_section": 3,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "advanced/file-generation",
+    "section": "Advanced",
+    "title": "File generation",
+    "order_in_section": 4,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "testing/overview",
+    "section": "Testing",
+    "title": "Overview",
+    "order_in_section": 1,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "testing/testing-resources",
+    "section": "Testing",
+    "title": "Testing resources",
+    "order_in_section": 2,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "testing/testing-tables",
+    "section": "Testing",
+    "title": "Testing tables",
+    "order_in_section": 3,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "testing/testing-schemas",
+    "section": "Testing",
+    "title": "Testing schemas",
+    "order_in_section": 4,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "testing/testing-actions",
+    "section": "Testing",
+    "title": "Testing actions",
+    "order_in_section": 5,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "testing/testing-notifications",
+    "section": "Testing",
+    "title": "Testing notifications",
+    "order_in_section": 6,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "plugins/getting-started",
+    "section": "Plugins",
+    "title": "Getting started",
+    "order_in_section": 1,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "plugins/plugin-development",
+    "section": "Plugins",
+    "title": "Plugin development",
+    "order_in_section": 2,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "plugins/build-a-panel-plugin",
+    "section": "Plugins",
+    "title": "Build a panel plugin",
+    "order_in_section": 3,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "plugins/build-a-standalone-plugin",
+    "section": "Plugins",
+    "title": "Build a standalone plugin",
+    "order_in_section": 4,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "components/overview",
+    "section": "Components",
+    "title": "Overview",
+    "order_in_section": 1,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "components/rendering-an-action-in-a-livewire-component",
+    "section": "Components",
+    "title": "Rendering an action in a Livewire component",
+    "order_in_section": 2,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "components/rendering-a-form-in-a-blade-view",
+    "section": "Components",
+    "title": "Rendering a form in a Blade view",
+    "order_in_section": 3,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "components/rendering-an-infolist-in-a-blade-view",
+    "section": "Components",
+    "title": "Rendering an infolist in a Blade view",
+    "order_in_section": 4,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "components/rendering-notifications-outside-of-a-panel",
+    "section": "Components",
+    "title": "Rendering notifications outside of a panel",
+    "order_in_section": 5,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "components/rendering-a-schema-in-a-blade-view",
+    "section": "Components",
+    "title": "Rendering a schema in a Blade view",
+    "order_in_section": 6,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "components/rendering-a-table-in-a-blade-view",
+    "section": "Components",
+    "title": "Rendering a table in a Blade view",
+    "order_in_section": 7,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "components/rendering-a-widget-in-a-blade-view",
+    "section": "Components",
+    "title": "Rendering a widget in a Blade view",
+    "order_in_section": 8,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "components/avatar-blade-component",
+    "section": "Components",
+    "title": "Avatar Blade component",
+    "order_in_section": 9,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "components/badge-blade-component",
+    "section": "Components",
+    "title": "Badge Blade component",
+    "order_in_section": 10,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "components/breadcrumbs-blade-component",
+    "section": "Components",
+    "title": "Breadcrumbs Blade component",
+    "order_in_section": 11,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "components/button-blade-component",
+    "section": "Components",
+    "title": "Button Blade component",
+    "order_in_section": 12,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "components/checkbox-blade-component",
+    "section": "Components",
+    "title": "Checkbox Blade component",
+    "order_in_section": 13,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "components/dropdown-blade-component",
+    "section": "Components",
+    "title": "Dropdown Blade component",
+    "order_in_section": 14,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "components/fieldset-blade-component",
+    "section": "Components",
+    "title": "Fieldset Blade component",
+    "order_in_section": 15,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "components/icon-button-blade-component",
+    "section": "Components",
+    "title": "Icon button Blade component",
+    "order_in_section": 16,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "components/input-wrapper-blade-component",
+    "section": "Components",
+    "title": "Input wrapper Blade component",
+    "order_in_section": 17,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "components/input-blade-component",
+    "section": "Components",
+    "title": "Input Blade component",
+    "order_in_section": 18,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "components/link-blade-component",
+    "section": "Components",
+    "title": "Link Blade component",
+    "order_in_section": 19,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "components/loading-indicator-blade-component",
+    "section": "Components",
+    "title": "Loading indicator Blade component",
+    "order_in_section": 20,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "components/modal-blade-component",
+    "section": "Components",
+    "title": "Modal Blade component",
+    "order_in_section": 21,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "components/pagination-blade-component",
+    "section": "Components",
+    "title": "Pagination Blade component",
+    "order_in_section": 22,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "components/section-blade-component",
+    "section": "Components",
+    "title": "Section Blade component",
+    "order_in_section": 23,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "components/select-blade-component",
+    "section": "Components",
+    "title": "Select Blade component",
+    "order_in_section": 24,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "components/tabs-blade-component",
+    "section": "Components",
+    "title": "Tabs Blade component",
+    "order_in_section": 25,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "deploying-to-production/deploying-to-production",
+    "section": "Deploying to production",
+    "title": "Deploying to production",
+    "order_in_section": 1,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  },
+  {
+    "id": "upgrade-guide/upgrade-guide",
+    "section": "Upgrade guide",
+    "title": "Upgrade guide",
+    "order_in_section": 1,
+    "status": "todo",
+    "completed_at": null,
+    "notes": ""
+  }
+]
